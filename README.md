@@ -19,15 +19,11 @@ Computers are now capable of accurately diagnosing a variety of medical conditio
 
 ---  
 
-## **Hardware Requirements**  
-
 - **Processor**: Pentium i5  
 - **RAM**: 2GB  
 - **Hard Disk**: 250GB  
 
----  
 
-## **Software Requirements**  
 
 - **Frontend**: HTML, CSS  
 - **Backend**: Python  
